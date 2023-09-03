@@ -1,1 +1,1 @@
-# Leetcode-DSA Crash Cource
+# Leetcode-DSA Crash Course
