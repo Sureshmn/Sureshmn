@@ -1,1 +1,1 @@
-# Leetcode-SuryaSirSheet
+# Leetcode-DSA Crash Cource
